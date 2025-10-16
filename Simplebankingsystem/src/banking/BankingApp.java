@@ -152,7 +152,7 @@ public class BankingApp extends JFrame {
 
         return panel;
     }
-
+// main function call
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new BankingApp().setVisible(true));
     }
