@@ -109,7 +109,7 @@ public class BankingApp extends JFrame {
         tagline.setBounds(0, 360, 1200, 35);
         panel.add(tagline);
 
-        JLabel feature1 = new JLabel("✨ Secure  •  Simple  •  Smart", SwingConstants.CENTER);
+        JLabel feature1 = new JLabel(" Secure  •  Simple  •  Smart", SwingConstants.CENTER);
         feature1.setFont(new Font("Segoe UI", Font.PLAIN, 18));
         feature1.setForeground(new Color(220, 220, 255));
         feature1.setBounds(0, 420, 1200, 30);
